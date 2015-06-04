@@ -1,0 +1,116 @@
+{ "results": [
+	{
+        "carClass": {
+            "__type": "Pointer",
+            "className": "CarClass",
+            "objectId": "4UWED4V4Qk"
+        },
+        "color": "Black",
+        "createdAt": "2015-04-26T16:30:27.383Z",
+        "licensePlates": "O955OC97",
+        "make": "Mercedes Benz",
+        "model": "S",
+        "objectId": "3XzHT8MNbf",
+        "taxiLegalEntity": {
+            "__type": "Pointer",
+            "className": "TaxiLegalEntity",
+            "objectId": "pxwxHdJrbn"
+        },
+        "updatedAt": "2015-04-26T17:12:45.988Z"
+    },
+	{
+        "carClass": {
+            "__type": "Pointer",
+            "className": "CarClass",
+            "objectId": "OL7RJnrQCf"
+        },
+        "color": "Yellow",
+        "createdAt": "2015-04-26T16:29:43.155Z",
+        "licensePlates": "K184CK77",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "objectId": "kdM2uU7jMD",
+        "taxiLegalEntity": {
+            "__type": "Pointer",
+            "className": "TaxiLegalEntity",
+            "objectId": "pxwxHdJrbn"
+        },
+        "updatedAt": "2015-04-26T17:12:47.722Z"
+    },
+	{
+        "carClass": {
+            "__type": "Pointer",
+            "className": "CarClass",
+            "objectId": "OL7RJnrQCf"
+        },
+        "color": "White",
+        "createdAt": "2015-04-26T16:28:35.503Z",
+        "licensePlates": "X453TC197",
+        "make": "Ford",
+        "model": "Focus",
+        "objectId": "onVIMJQwre",
+        "taxiLegalEntity": {
+            "__type": "Pointer",
+            "className": "TaxiLegalEntity",
+            "objectId": "fKKcvIsaR1"
+        },
+        "updatedAt": "2015-04-26T17:13:09.537Z"
+    },
+	{
+        "carClass": {
+            "__type": "Pointer",
+            "className": "CarClass",
+            "objectId": "64fE7DPz1X"
+        },
+        "color": "Yellow",
+        "createdAt": "2015-04-26T16:27:52.432Z",
+        "licensePlates": "K954CT77",
+        "make": "Ford",
+        "model": "Mondeo",
+        "objectId": "1B1PfjOGX4",
+        "taxiLegalEntity": {
+            "__type": "Pointer",
+            "className": "TaxiLegalEntity",
+            "objectId": "fKKcvIsaR1"
+        },
+        "updatedAt": "2015-04-26T17:13:11.602Z"
+    },
+	{
+        "carClass": {
+            "__type": "Pointer",
+            "className": "CarClass",
+            "objectId": "64fE7DPz1X"
+        },
+        "color": "Yellow",
+        "createdAt": "2015-04-26T16:27:29.590Z",
+        "licensePlates": "T309KC197",
+        "make": "Kia",
+        "model": "Ceed",
+        "objectId": "XUhWUYGY8j",
+        "taxiLegalEntity": {
+            "__type": "Pointer",
+            "className": "TaxiLegalEntity",
+            "objectId": "fKKcvIsaR1"
+        },
+        "updatedAt": "2015-04-26T17:13:12.525Z"
+    },
+	{
+        "carClass": {
+            "__type": "Pointer",
+            "className": "CarClass",
+            "objectId": "64fE7DPz1X"
+        },
+        "color": "White",
+        "createdAt": "2015-04-26T16:24:00.244Z",
+        "licensePlates": "E364CK197",
+        "make": "Ford",
+        "model": "Mondeo",
+        "objectId": "Q8Mp459vXx",
+        "taxiLegalEntity": {
+            "__type": "Pointer",
+            "className": "TaxiLegalEntity",
+            "objectId": "fKKcvIsaR1"
+        },
+        "updatedAt": "2015-04-26T17:13:14.334Z"
+    }
+] }

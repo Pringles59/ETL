@@ -1,0 +1,181 @@
+{ "results": [
+	{
+        "corporation": {
+            "__type": "Pointer",
+            "className": "Corporation",
+            "objectId": "PJHPPiYIkI"
+        },
+        "createdAt": "2015-04-26T17:18:38.754Z",
+        "objectId": "e8pcRBU9Dr",
+        "startTime": {
+            "__type": "Date",
+            "iso": "2015-04-26T17:20:00.000Z"
+        },
+        "updatedAt": "2015-04-26T17:20:06.376Z",
+        "user": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "Rb8y7DqWZP"
+        }
+    },
+	{
+        "corporation": {
+            "__type": "Pointer",
+            "className": "Corporation",
+            "objectId": "PJHPPiYIkI"
+        },
+        "createdAt": "2015-04-26T17:18:37.994Z",
+        "objectId": "jrNP4EUKXy",
+        "startTime": {
+            "__type": "Date",
+            "iso": "2015-04-26T17:20:00.000Z"
+        },
+        "updatedAt": "2015-04-26T17:20:06.563Z",
+        "user": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "ybZv3zfmki"
+        }
+    },
+	{
+        "corporation": {
+            "__type": "Pointer",
+            "className": "Corporation",
+            "objectId": "IJwxidme7i"
+        },
+        "createdAt": "2015-04-26T17:18:22.738Z",
+        "endTime": {
+            "__type": "Date",
+            "iso": "2015-11-12T17:20:00.000Z"
+        },
+        "objectId": "rmZr5EUHg1",
+        "startTime": {
+            "__type": "Date",
+            "iso": "2015-04-26T17:20:00.000Z"
+        },
+        "updatedAt": "2015-04-26T17:20:22.489Z",
+        "user": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "cjCDXgsCwg"
+        }
+    },
+	{
+        "corporation": {
+            "__type": "Pointer",
+            "className": "Corporation",
+            "objectId": "IJwxidme7i"
+        },
+        "createdAt": "2015-04-26T17:18:21.910Z",
+        "objectId": "lylrhLOme9",
+        "startTime": {
+            "__type": "Date",
+            "iso": "2015-04-26T17:20:00.000Z"
+        },
+        "updatedAt": "2015-04-26T17:20:06.956Z",
+        "user": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "Eyb65lP9Ac"
+        }
+    },
+	{
+        "corporation": {
+            "__type": "Pointer",
+            "className": "Corporation",
+            "objectId": "IJwxidme7i"
+        },
+        "createdAt": "2015-04-26T17:18:19.864Z",
+        "objectId": "Ey1bxXH7Km",
+        "startTime": {
+            "__type": "Date",
+            "iso": "2015-04-26T17:20:00.000Z"
+        },
+        "updatedAt": "2015-04-26T17:20:07.008Z",
+        "user": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "Gs5zl5WiVC"
+        }
+    },
+	{
+        "corporation": {
+            "__type": "Pointer",
+            "className": "Corporation",
+            "objectId": "ekFgycWFPV"
+        },
+        "createdAt": "2015-04-26T17:18:06.809Z",
+        "objectId": "wjqnWi23Pd",
+        "startTime": {
+            "__type": "Date",
+            "iso": "2015-04-26T17:20:00.000Z"
+        },
+        "updatedAt": "2015-04-26T17:20:07.128Z",
+        "user": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "4jRmS95sSl"
+        }
+    },
+	{
+        "corporation": {
+            "__type": "Pointer",
+            "className": "Corporation",
+            "objectId": "ekFgycWFPV"
+        },
+        "createdAt": "2015-04-26T17:18:01.622Z",
+        "endTime": {
+            "__type": "Date",
+            "iso": "2015-04-30T17:20:00.000Z"
+        },
+        "objectId": "61BJMosSqE",
+        "startTime": {
+            "__type": "Date",
+            "iso": "2015-04-26T17:20:00.000Z"
+        },
+        "updatedAt": "2015-04-26T17:20:35.473Z",
+        "user": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "ehXiIdMSZG"
+        }
+    },
+	{
+        "corporation": {
+            "__type": "Pointer",
+            "className": "Corporation",
+            "objectId": "ekFgycWFPV"
+        },
+        "createdAt": "2015-04-26T17:18:00.852Z",
+        "objectId": "NDIFtni0tX",
+        "startTime": {
+            "__type": "Date",
+            "iso": "2015-04-26T17:20:00.000Z"
+        },
+        "updatedAt": "2015-04-26T17:20:07.431Z",
+        "user": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "WYlyKpr6rn"
+        }
+    },
+	{
+        "corporation": {
+            "__type": "Pointer",
+            "className": "Corporation",
+            "objectId": "ekFgycWFPV"
+        },
+        "createdAt": "2015-04-26T17:18:00.244Z",
+        "objectId": "kqaERdisrW",
+        "startTime": {
+            "__type": "Date",
+            "iso": "2015-04-26T17:20:00.000Z"
+        },
+        "updatedAt": "2015-04-26T17:20:07.544Z",
+        "user": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "fOqV6MFzNb"
+        }
+    }
+] }

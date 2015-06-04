@@ -1,0 +1,47 @@
+{ "results": [
+	{
+        "carClass": {
+            "__type": "Pointer",
+            "className": "CarClass",
+            "objectId": "4UWED4V4Qk"
+        },
+        "createdAt": "2015-04-26T17:06:59.093Z",
+        "description": "Business class",
+        "includedWaitMins": 10,
+        "name": "Business",
+        "objectId": "OgPxdXBw6L",
+        "priceFixed": 399,
+        "pricePerMin": 17,
+        "updatedAt": "2015-04-26T17:08:26.603Z"
+    },
+	{
+        "carClass": {
+            "__type": "Pointer",
+            "className": "CarClass",
+            "objectId": "64fE7DPz1X"
+        },
+        "createdAt": "2015-04-26T17:06:53.210Z",
+        "description": "Comfort class",
+        "includedWaitMins": 5,
+        "name": "Comfort",
+        "objectId": "fbiXJqXpTt",
+        "priceFixed": 249,
+        "pricePerMin": 15,
+        "updatedAt": "2015-04-26T17:08:30.373Z"
+    },
+	{
+        "carClass": {
+            "__type": "Pointer",
+            "className": "CarClass",
+            "objectId": "OL7RJnrQCf"
+        },
+        "createdAt": "2015-04-26T17:06:49.558Z",
+        "description": "Economy class",
+        "includedWaitMins": 5,
+        "name": "Economy",
+        "objectId": "txpTvfuWIB",
+        "priceFixed": 199,
+        "pricePerMin": 13,
+        "updatedAt": "2015-04-26T17:08:36.551Z"
+    }
+] }

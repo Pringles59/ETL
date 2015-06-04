@@ -1,0 +1,20 @@
+{ "results": [
+	{
+        "createdAt": "2015-04-26T17:14:05.584Z",
+        "name": "Fiztech Technologies Ltd.",
+        "objectId": "PJHPPiYIkI",
+        "updatedAt": "2015-04-26T17:14:05.584Z"
+    },
+	{
+        "createdAt": "2015-04-26T17:14:14.494Z",
+        "name": "Coca-Cola Company",
+        "objectId": "IJwxidme7i",
+        "updatedAt": "2015-04-26T17:14:14.494Z"
+    },
+	{
+        "createdAt": "2015-04-26T17:14:21.074Z",
+        "name": "Siemens",
+        "objectId": "ekFgycWFPV",
+        "updatedAt": "2015-04-26T17:14:21.074Z"
+    }
+] }

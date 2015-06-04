@@ -1,0 +1,14 @@
+{ "results": [
+	{
+        "createdAt": "2015-04-26T17:12:03.234Z",
+        "name": "Moscow Central Taxi Cab Co.",
+        "objectId": "pxwxHdJrbn",
+        "updatedAt": "2015-04-26T17:12:03.234Z"
+    },
+	{
+        "createdAt": "2015-04-26T17:12:08.407Z",
+        "name": "Green Taxi Company",
+        "objectId": "fKKcvIsaR1",
+        "updatedAt": "2015-04-26T17:12:08.407Z"
+    }
+] }

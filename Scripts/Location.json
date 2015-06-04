@@ -1,0 +1,812 @@
+{ "results": [
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.7696667,
+            "longitude": 37.6475136
+        },
+        "createdAt": "2015-04-25T09:00:05.882Z",
+        "name": "Sadovaya-Spasskaya ulitsa 19",
+        "number": "19",
+        "objectId": "pzQxAZQPlA",
+        "street": "Sadovaya-Spasskaya ulitsa",
+        "updatedAt": "2015-04-25T09:00:05.882Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T09:00:05.882Z",
+        "number": "5",
+        "objectId": "sX8HxiLdCb",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T09:00:05.882Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T10:10:23.058Z",
+        "number": "5",
+        "objectId": "9KT2SJIt5l",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T10:10:23.058Z"
+    },
+	{
+        "city": "Dolgoprudyy",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.9307801,
+            "longitude": 37.5212089
+        },
+        "createdAt": "2015-04-25T10:10:23.058Z",
+        "name": "Pervomayskaya ulitsa 34K5",
+        "number": "34K5",
+        "objectId": "H97VH9q2EJ",
+        "street": "Pervomayskaya ulitsa",
+        "updatedAt": "2015-04-25T10:10:23.058Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T10:22:07.743Z",
+        "number": "5",
+        "objectId": "kN9jd28JH1",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T10:22:07.743Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.788813,
+            "longitude": 37.5719227
+        },
+        "createdAt": "2015-04-25T10:22:07.743Z",
+        "name": "Raskovoy ulitsa 9с2",
+        "number": "9с2",
+        "objectId": "hPVJZ396EF",
+        "street": "Raskovoy ulitsa",
+        "updatedAt": "2015-04-25T10:22:07.743Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T10:24:10.854Z",
+        "number": "5",
+        "objectId": "LFJ3Bte6sl",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T10:24:10.854Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.7145498,
+            "longitude": 37.6707383
+        },
+        "createdAt": "2015-04-25T10:24:10.854Z",
+        "name": "1-ya Mashinostroyeniya ulitsa 5S1",
+        "number": "5S1",
+        "objectId": "whbAlzBXNu",
+        "street": "1-ya Mashinostroyeniya ulitsa",
+        "updatedAt": "2015-04-25T10:24:10.854Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T10:27:55.238Z",
+        "number": "5",
+        "objectId": "z5J7Tfcjnp",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T10:27:55.238Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.7128733,
+            "longitude": 37.5938103
+        },
+        "createdAt": "2015-04-25T10:27:55.239Z",
+        "name": "2-y Donskoy proyezd 4",
+        "number": "4",
+        "objectId": "ZRoWmydw3U",
+        "street": "2-y Donskoy proyezd",
+        "updatedAt": "2015-04-25T10:27:55.239Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.7145498,
+            "longitude": 37.6707383
+        },
+        "createdAt": "2015-04-25T10:28:12.009Z",
+        "name": "1-ya Mashinostroyeniya ulitsa 5S1",
+        "number": "5S1",
+        "objectId": "5EDORXPFjY",
+        "street": "1-ya Mashinostroyeniya ulitsa",
+        "updatedAt": "2015-04-25T10:28:12.009Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T10:28:12.009Z",
+        "number": "5",
+        "objectId": "kwj5bd5GT5",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T10:28:12.009Z"
+    },
+	{
+        "city": "Dolgoprudyy",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.9308131,
+            "longitude": 37.5207513
+        },
+        "createdAt": "2015-04-25T11:10:40.779Z",
+        "name": "московский физико-технический институт",
+        "number": "7",
+        "objectId": "zZYGylaBkH",
+        "street": "Institutskiy pereulok",
+        "updatedAt": "2015-04-25T11:10:40.779Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T11:10:40.779Z",
+        "number": "5",
+        "objectId": "XUxjwNYTHA",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T11:10:40.779Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.7329119,
+            "longitude": 37.653592
+        },
+        "createdAt": "2015-04-25T11:11:36.329Z",
+        "name": "Novospasskiy pereulok 7Ас4",
+        "number": "7Ас4",
+        "objectId": "ummEenGyGD",
+        "street": "Novospasskiy pereulok",
+        "updatedAt": "2015-04-25T11:11:36.329Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T11:11:36.329Z",
+        "number": "5",
+        "objectId": "Uw5cGGl4eD",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T11:11:36.329Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T11:12:25.875Z",
+        "number": "5",
+        "objectId": "vyrDEO9EfF",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T11:12:25.875Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.7145498,
+            "longitude": 37.6707383
+        },
+        "createdAt": "2015-04-25T11:12:25.874Z",
+        "name": "1-ya Mashinostroyeniya ulitsa 5S1",
+        "number": "5S1",
+        "objectId": "XN5ojJK1oP",
+        "street": "1-ya Mashinostroyeniya ulitsa",
+        "updatedAt": "2015-04-25T11:12:25.874Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T11:12:48.790Z",
+        "number": "5",
+        "objectId": "IUowjoOwoZ",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T11:12:48.790Z"
+    },
+	{
+        "city": "Dolgoprudyy",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.9317417,
+            "longitude": 37.520205
+        },
+        "createdAt": "2015-04-25T11:12:48.791Z",
+        "name": "Institutskiy pereulok 4/9",
+        "number": "4/9",
+        "objectId": "8rGH7OfbIS",
+        "street": "Institutskiy pereulok",
+        "updatedAt": "2015-04-25T11:12:48.791Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T11:13:47.770Z",
+        "number": "5",
+        "objectId": "uxQITyZDq3",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T11:13:47.770Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.7308795,
+            "longitude": 37.6272147
+        },
+        "createdAt": "2015-04-25T11:13:47.771Z",
+        "name": "Pyatnitskaya ulitsa 71/5с4",
+        "number": "71/5с4",
+        "objectId": "8WKNtMsWZX",
+        "street": "Pyatnitskaya ulitsa",
+        "updatedAt": "2015-04-25T11:13:47.771Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.6985187,
+            "longitude": 37.4886434
+        },
+        "createdAt": "2015-04-25T11:16:23.193Z",
+        "name": "Vinnitskaya ulitsa 17",
+        "number": "17",
+        "objectId": "iPRmbzgav1",
+        "street": "Vinnitskaya ulitsa",
+        "updatedAt": "2015-04-25T11:16:23.193Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T11:16:23.193Z",
+        "number": "5",
+        "objectId": "Gy1Q2NdMO9",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T11:16:23.193Z"
+    },
+	{
+        "city": "Dolgoprudyy",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.93087,
+            "longitude": 37.52162
+        },
+        "createdAt": "2015-04-25T13:35:39.437Z",
+        "name": "Pervomayskaya ulitsa 34к5",
+        "number": "34к5",
+        "objectId": "84yVjjfyNI",
+        "street": "Pervomayskaya ulitsa",
+        "updatedAt": "2015-04-25T13:35:39.437Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T13:35:39.437Z",
+        "number": "5",
+        "objectId": "BtgisREAdz",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T13:35:39.437Z"
+    },
+	{
+        "city": "Lugovaya",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 56.0523943,
+            "longitude": 37.4994513
+        },
+        "createdAt": "2015-04-25T14:25:17.658Z",
+        "name": "Vysokovol'tnaya ulitsa 48–54",
+        "number": "48–54",
+        "objectId": "m6yiET9Vzi",
+        "street": "Vysokovol'tnaya ulitsa",
+        "updatedAt": "2015-04-25T14:25:17.658Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T14:25:17.659Z",
+        "number": "5",
+        "objectId": "335xgZGtvA",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T14:25:17.659Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T14:26:19.793Z",
+        "number": "5",
+        "objectId": "WQssLRpWvS",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T14:26:19.793Z"
+    },
+	{
+        "city": "Lugovaya",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 56.0523943,
+            "longitude": 37.4994513
+        },
+        "createdAt": "2015-04-25T14:26:19.793Z",
+        "name": "Vysokovol'tnaya ulitsa 48–54",
+        "number": "48–54",
+        "objectId": "OTvV837h8m",
+        "street": "Vysokovol'tnaya ulitsa",
+        "updatedAt": "2015-04-25T14:26:19.793Z"
+    },
+	{
+        "city": "Dolgoprudyy",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.9308131,
+            "longitude": 37.5207513
+        },
+        "createdAt": "2015-04-25T14:27:19.895Z",
+        "name": "московский физико-технический институт",
+        "number": "7",
+        "objectId": "fxhet0626Y",
+        "street": "Institutskiy pereulok",
+        "updatedAt": "2015-04-25T14:27:19.895Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T14:27:19.895Z",
+        "number": "5",
+        "objectId": "TuFUweUJEe",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T14:27:19.895Z"
+    },
+	{
+        "city": "Dolgoprudyy",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.9308131,
+            "longitude": 37.5207513
+        },
+        "createdAt": "2015-04-25T14:28:29.123Z",
+        "name": "московский физико-технический институт",
+        "number": "7",
+        "objectId": "Hv5qFZXXco",
+        "street": "Institutskiy pereulok",
+        "updatedAt": "2015-04-25T14:28:29.123Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T14:28:29.126Z",
+        "number": "5",
+        "objectId": "f15RRIqvqy",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T14:28:29.126Z"
+    },
+	{
+        "city": "Dolgoprudyy",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.9308131,
+            "longitude": 37.5207513
+        },
+        "createdAt": "2015-04-25T14:29:33.023Z",
+        "name": "московский физико-технический институт",
+        "number": "7",
+        "objectId": "cCXnHzsRGX",
+        "street": "Institutskiy pereulok",
+        "updatedAt": "2015-04-25T14:29:33.023Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T14:29:33.023Z",
+        "number": "5",
+        "objectId": "28k09mjaEV",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T14:29:33.023Z"
+    },
+	{
+        "city": "Dolgoprudyy",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.9308131,
+            "longitude": 37.5207513
+        },
+        "createdAt": "2015-04-25T14:30:55.903Z",
+        "name": "московский физико-технический институт",
+        "number": "7",
+        "objectId": "5USfvwYDNB",
+        "street": "Institutskiy pereulok",
+        "updatedAt": "2015-04-25T14:30:55.903Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T14:30:55.903Z",
+        "number": "5",
+        "objectId": "jPBKBaxrQh",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T14:30:55.903Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T14:33:03.378Z",
+        "number": "5",
+        "objectId": "jt4zQAhaz6",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T14:33:03.378Z"
+    },
+	{
+        "city": "Dolgoprudyy",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.9308131,
+            "longitude": 37.5207513
+        },
+        "createdAt": "2015-04-25T14:33:03.378Z",
+        "name": "московский физико-технический институт",
+        "number": "7",
+        "objectId": "Fkzt9s2qty",
+        "street": "Institutskiy pereulok",
+        "updatedAt": "2015-04-25T14:33:03.378Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T14:33:15.911Z",
+        "number": "5",
+        "objectId": "A4yoCX4pNh",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T14:33:15.911Z"
+    },
+	{
+        "city": "Dolgoprudyy",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.9306334,
+            "longitude": 37.5212822
+        },
+        "createdAt": "2015-04-25T14:33:15.913Z",
+        "name": "Pervomayskaya ulitsa 34K5",
+        "number": "34K5",
+        "objectId": "nCQVnWppxl",
+        "street": "Pervomayskaya ulitsa",
+        "updatedAt": "2015-04-25T14:33:15.913Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T14:34:16.393Z",
+        "number": "5",
+        "objectId": "d4XcylPUTL",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T14:34:16.393Z"
+    },
+	{
+        "city": "Dolgoprudyy",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.9306334,
+            "longitude": 37.5212822
+        },
+        "createdAt": "2015-04-25T14:34:16.394Z",
+        "name": "Pervomayskaya ulitsa 34K5",
+        "number": "34K5",
+        "objectId": "nnFsu2hDPp",
+        "street": "Pervomayskaya ulitsa",
+        "updatedAt": "2015-04-25T14:34:16.394Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.8213981,
+            "longitude": 37.4976186
+        },
+        "createdAt": "2015-04-25T16:15:15.930Z",
+        "name": "Leningradskoye shosse 16Ас1",
+        "number": "16Ас1",
+        "objectId": "YfBip4rnKH",
+        "street": "Leningradskoye shosse",
+        "updatedAt": "2015-04-25T16:15:15.930Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-25T16:15:15.930Z",
+        "number": "5",
+        "objectId": "eTOPI76pjs",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-25T16:15:15.930Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.7048118,
+            "longitude": 37.6720439
+        },
+        "createdAt": "2015-04-26T08:51:05.869Z",
+        "name": "5-ya Kozhukhovskaya ulitsa 16",
+        "number": "16",
+        "objectId": "0OkiHeSh7l",
+        "street": "5-ya Kozhukhovskaya ulitsa",
+        "updatedAt": "2015-04-26T08:51:05.869Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-26T08:51:05.872Z",
+        "number": "5",
+        "objectId": "GEHxyrjcB8",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-26T08:51:05.872Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.7133123,
+            "longitude": 37.6728371
+        },
+        "createdAt": "2015-04-26T08:51:21.043Z",
+        "name": "1-ya Mashinostroyeniya ulitsa 12А",
+        "number": "12А",
+        "objectId": "dPpRgs7rdD",
+        "street": "1-ya Mashinostroyeniya ulitsa",
+        "updatedAt": "2015-04-26T08:51:21.043Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-26T08:51:21.044Z",
+        "number": "5",
+        "objectId": "XoRnVka33b",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-26T08:51:21.044Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-26T08:51:24.404Z",
+        "number": "5",
+        "objectId": "LilJDICAPp",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-26T08:51:24.404Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.7133123,
+            "longitude": 37.6728371
+        },
+        "createdAt": "2015-04-26T08:51:24.404Z",
+        "name": "1-ya Mashinostroyeniya ulitsa 12А",
+        "number": "12А",
+        "objectId": "8PUVmb3Wpg",
+        "street": "1-ya Mashinostroyeniya ulitsa",
+        "updatedAt": "2015-04-26T08:51:24.404Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-26T08:51:28.204Z",
+        "number": "5",
+        "objectId": "sRwexyVmcr",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-26T08:51:28.204Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.7133123,
+            "longitude": 37.6728371
+        },
+        "createdAt": "2015-04-26T08:51:28.204Z",
+        "name": "1-ya Mashinostroyeniya ulitsa 12А",
+        "number": "12А",
+        "objectId": "VauKANqWjU",
+        "street": "1-ya Mashinostroyeniya ulitsa",
+        "updatedAt": "2015-04-26T08:51:28.204Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-26T08:51:31.630Z",
+        "number": "5",
+        "objectId": "95c6NF844X",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-26T08:51:31.630Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.7133123,
+            "longitude": 37.6728371
+        },
+        "createdAt": "2015-04-26T08:51:31.630Z",
+        "name": "1-ya Mashinostroyeniya ulitsa 12А",
+        "number": "12А",
+        "objectId": "0KFq3mOcXN",
+        "street": "1-ya Mashinostroyeniya ulitsa",
+        "updatedAt": "2015-04-26T08:51:31.630Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.7145912,
+            "longitude": 37.6665548
+        },
+        "createdAt": "2015-04-26T10:21:36.398Z",
+        "name": "Velozavodskaya ulitsa 5/1с5",
+        "number": "5/1с5",
+        "objectId": "KUJntcmDtS",
+        "street": "Velozavodskaya ulitsa",
+        "updatedAt": "2015-04-26T10:21:36.398Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-26T10:21:36.398Z",
+        "number": "5",
+        "objectId": "k5foRFDIj7",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-26T10:21:36.398Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.7329951,
+            "longitude": 37.6553501
+        },
+        "createdAt": "2015-04-26T10:31:20.424Z",
+        "name": "Krest'yanskaya ploshchad' 10/2",
+        "number": "10/2",
+        "objectId": "Ip7UdsI31o",
+        "street": "Krest'yanskaya ploshchad'",
+        "updatedAt": "2015-04-26T10:31:20.424Z"
+    },
+	{
+        "city": "Moscow",
+        "coord": {
+            "__type": "GeoPoint",
+            "latitude": 55.751475,
+            "longitude": 37.773614
+        },
+        "createdAt": "2015-04-26T10:31:20.424Z",
+        "number": "5",
+        "objectId": "lzh8YQXRLy",
+        "street": "3-y Perova Polya pr-d",
+        "updatedAt": "2015-04-26T10:31:20.424Z"
+    }
+] }

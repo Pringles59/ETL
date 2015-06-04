@@ -1,0 +1,137 @@
+{ "results": [
+	{
+        "createdAt": "2015-04-26T17:23:47.889Z",
+        "membership": {
+            "__type": "Pointer",
+            "className": "UserCorporationMembership",
+            "objectId": "kqaERdisrW"
+        },
+        "objectId": "O3BCbzyCrB",
+        "tariff": {
+            "__type": "Pointer",
+            "className": "Tariff",
+            "objectId": "OgPxdXBw6L"
+        },
+        "updatedAt": "2015-04-26T17:24:05.091Z"
+    },
+	{
+        "createdAt": "2015-04-26T17:23:36.521Z",
+        "membership": {
+            "__type": "Pointer",
+            "className": "UserCorporationMembership",
+            "objectId": "NDIFtni0tX"
+        },
+        "objectId": "wCygY4ZJHd",
+        "tariff": {
+            "__type": "Pointer",
+            "className": "Tariff",
+            "objectId": "OgPxdXBw6L"
+        },
+        "updatedAt": "2015-04-26T17:24:07.152Z"
+    },
+	{
+        "createdAt": "2015-04-26T17:22:21.030Z",
+        "membership": {
+            "__type": "Pointer",
+            "className": "UserCorporationMembership",
+            "objectId": "jrNP4EUKXy"
+        },
+        "objectId": "x3FMrhLP2C",
+        "tariff": {
+            "__type": "Pointer",
+            "className": "Tariff",
+            "objectId": "OgPxdXBw6L"
+        },
+        "updatedAt": "2015-04-26T17:24:07.832Z"
+    },
+	{
+        "createdAt": "2015-04-26T17:22:51.386Z",
+        "membership": {
+            "__type": "Pointer",
+            "className": "UserCorporationMembership",
+            "objectId": "Ey1bxXH7Km"
+        },
+        "objectId": "PGKi7TTapr",
+        "tariff": {
+            "__type": "Pointer",
+            "className": "Tariff",
+            "objectId": "OgPxdXBw6L"
+        },
+        "updatedAt": "2015-04-26T17:24:09.809Z"
+    },
+	{
+        "createdAt": "2015-04-26T17:23:28.617Z",
+        "membership": {
+            "__type": "Pointer",
+            "className": "UserCorporationMembership",
+            "objectId": "61BJMosSqE"
+        },
+        "objectId": "plofaax2vC",
+        "tariff": {
+            "__type": "Pointer",
+            "className": "Tariff",
+            "objectId": "fbiXJqXpTt"
+        },
+        "updatedAt": "2015-04-26T17:24:14.683Z"
+    },
+	{
+        "createdAt": "2015-04-26T17:22:33.780Z",
+        "membership": {
+            "__type": "Pointer",
+            "className": "UserCorporationMembership",
+            "objectId": "rmZr5EUHg1"
+        },
+        "objectId": "oM7dRtmogi",
+        "tariff": {
+            "__type": "Pointer",
+            "className": "Tariff",
+            "objectId": "fbiXJqXpTt"
+        },
+        "updatedAt": "2015-04-26T17:24:16.028Z"
+    },
+	{
+        "createdAt": "2015-04-26T17:22:06.939Z",
+        "membership": {
+            "__type": "Pointer",
+            "className": "UserCorporationMembership",
+            "objectId": "e8pcRBU9Dr"
+        },
+        "objectId": "5Q1WCoXpYa",
+        "tariff": {
+            "__type": "Pointer",
+            "className": "Tariff",
+            "objectId": "fbiXJqXpTt"
+        },
+        "updatedAt": "2015-04-26T17:24:16.805Z"
+    },
+	{
+        "createdAt": "2015-04-26T17:23:19.383Z",
+        "membership": {
+            "__type": "Pointer",
+            "className": "UserCorporationMembership",
+            "objectId": "wjqnWi23Pd"
+        },
+        "objectId": "pN1Iurl5Ol",
+        "tariff": {
+            "__type": "Pointer",
+            "className": "Tariff",
+            "objectId": "txpTvfuWIB"
+        },
+        "updatedAt": "2015-04-26T17:25:16.806Z"
+    },
+	{
+        "createdAt": "2015-04-26T17:22:42.610Z",
+        "membership": {
+            "__type": "Pointer",
+            "className": "UserCorporationMembership",
+            "objectId": "lylrhLOme9"
+        },
+        "objectId": "NsMQCI3CJQ",
+        "tariff": {
+            "__type": "Pointer",
+            "className": "Tariff",
+            "objectId": "txpTvfuWIB"
+        },
+        "updatedAt": "2015-04-26T17:25:17.796Z"
+    }
+] }

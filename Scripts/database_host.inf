@@ -1,0 +1,2 @@
+IP-addres PORT USER DBNAME CHARSET  ### Use space as a separator
+127.0.0.1 3306 root cosmos2 utf8

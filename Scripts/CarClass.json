@@ -1,0 +1,23 @@
+{ "results": [
+	{
+        "createdAt": "2015-04-26T16:05:30.461Z",
+        "name": "Comfort",
+        "objectId": "64fE7DPz1X",
+        "theDescription": "Comfort Class",
+        "updatedAt": "2015-04-26T16:05:37.656Z"
+    },
+	{
+        "createdAt": "2015-04-26T16:05:32.255Z",
+        "name": "Business",
+        "objectId": "4UWED4V4Qk",
+        "theDescription": "Business Class: Mersedes E,S Klasse",
+        "updatedAt": "2015-04-26T16:05:47.290Z"
+    },
+	{
+        "createdAt": "2015-04-26T16:05:23.669Z",
+        "name": "Economy",
+        "objectId": "OL7RJnrQCf",
+        "theDescription": "Economy Class",
+        "updatedAt": "2015-04-26T16:05:54.668Z"
+    }
+] }
