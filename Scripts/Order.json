@@ -1,5 +1,5 @@
-{ "results": [[]
-	{}{P}
+{ "results": [
+	{
         "createdAt": "2015-04-26T16:52:00.184Z",
         "driverDutySession": {
             "__type": "Pointer",
