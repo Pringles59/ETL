@@ -1,5 +1,4 @@
 __author__ = 'Alex'
-
 import os.path
 import json
 import pymysql
